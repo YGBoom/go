@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/gogocode.svg)](https://www.npmjs.com/package/gogocode) [![license](https://img.shields.io/npm/l/gogocode.svg)](LICENSE) 
 
 
-## What is GoGoCode? 喀什的客户
+## What is GoGoCode? 喀什的客户 哈哈哈哈哈哈哈哈哈
 
 [中文 README](README-cn.md) 废弃红红火火恍恍惚惚
 
