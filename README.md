@@ -5,7 +5,7 @@
 
 ## What is GoGoCode? 喀什的客户
 
-[中文 README](README-cn.md)
+[中文 README](README-cn.md) 废弃红红火火恍恍惚惚
 
 GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing an intuitive API:
 
